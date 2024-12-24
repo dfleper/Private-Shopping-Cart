@@ -1,7 +1,8 @@
-### Installation and Start-Up
-- npm install
-- node server.js
+> [!TIP]
+> ### Installation and Start-Up
+>  - npm install
+>  - node server.js
 
-[info]
-- The uploaded code is incomplete...
-- El código subido está incompleto...
+> [!CAUTION]
+> <b>The uploaded code is incomplete...</b></br>
+> <b>El código subido está incompleto...</b>

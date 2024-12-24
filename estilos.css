@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#productos, #carrito {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.producto, .itemCarrito {
+  margin: 10px 0;
+  padding: 5px;
+  border-bottom: 1px solid #eee;
+}
+
+button {
+  margin-left: 10px;
+}
